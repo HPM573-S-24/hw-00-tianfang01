@@ -5,9 +5,9 @@ import pandas as pandas
 import platform
 
 # enter your name, e-mail address and github id below
-YOUR_NAME = 'John Smith'
-YOUR_EMAIL = 'john.smith@yale.edu'
-YOUR_GITHUB_ID = 'jsmith123'
+YOUR_NAME = 'Tianfang Shao'
+YOUR_EMAIL = 'tianfang.shao@yale.edu'
+YOUR_GITHUB_ID = 'tianfang01'
 
 #######################################################
 # sample from a standard normal distribution to test numpy
